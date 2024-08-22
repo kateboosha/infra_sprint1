@@ -1,5 +1,5 @@
 IP: 51.250.16.91;
-name_taski: http://tasochki.ddns.net/;
+name_taski: https://tasochki.ddns.net/;
 name_kittygram: https://thiskittygramm.ru/;
 login: user1;
 password: 1111;
